@@ -24,7 +24,7 @@ I have hands-on experience building **end-to-end AI software**: custom **RAG pla
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Intern — Esferize Comunicaciones SL** · *Feb 2026 – Aug 2026*
 
@@ -35,9 +35,9 @@ I have hands-on experience building **end-to-end AI software**: custom **RAG pla
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 [Federated Learning Platform for Tabular Data](https://github.com/serjim06/TFG-FederatedLearning) — *Bachelor's Thesis (grade: 9.5/10)*
+### [Federated Learning Platform for Tabular Data](https://github.com/serjim06/TFG-FederatedLearning) — *Bachelor's Thesis (grade: 9.5/10)*
 
 Desktop application to create, run and analyze **federated learning** experiments on tabular data: models are trained across distributed nodes **without centralizing the data**.
 
@@ -49,7 +49,7 @@ Desktop application to create, run and analyze **federated learning** experiment
 
 `Python` `PyTorch` `Flower` `Ray` `scikit-learn` `SQLite` `Tkinter` `pytest` `GitHub Actions`
 
-### 🧾 [Ticket Viewer — End-to-End Receipt OCR](https://github.com/serjim06/ticket-viewer) — *in progress*
+### [Ticket Viewer — End-to-End Receipt OCR](https://github.com/serjim06/ticket-viewer) — *in progress*
 
 OCR system that turns photos of purchase receipts into **structured JSON** (vendor, date, item, total).
 
@@ -60,7 +60,7 @@ OCR system that turns photos of purchase receipts into **structured JSON** (vend
 
 `Python` `PyTorch` `Computer Vision` `OCR` `CRNN` `CTC`
 
-### 🎨 [ImageGen — Evolutionary Art Generation](https://github.com/serjim06/ImageGen)
+### [ImageGen — Evolutionary Art Generation](https://github.com/serjim06/ImageGen)
 
 Generates artistic images of a target genre (landscape, portrait, abstract, still life… 14 genres) with an **evolutionary algorithm** whose fitness is computed by a **fine-tuned ResNet18** art-genre classifier.
 
@@ -72,7 +72,7 @@ Generates artistic images of a target genre (landscape, portrait, abstract, stil
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -88,6 +88,7 @@ Generates artistic images of a target genre (landscape, portrait, abstract, stil
 ![Flower](<https://img.shields.io/badge/Flower-Federated%20Learning-F2B705>)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Azure OpenAI](<https://img.shields.io/badge/Azure%20OpenAI-0078D4?logo=microsoftazure&logoColor=white>)
+![RAG](https://img.shields.io/badge/RAG-Hybrid%20Search-6A1B9A)
 ![MCP](https://img.shields.io/badge/MCP-FastMCP-000000)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
 
@@ -101,7 +102,7 @@ Generates artistic images of a target genre (landscape, portrait, abstract, stil
 
 ---
 
-## 🎓 Education
+## Education
 
 | Period       | Degree                                     | Institution                      |
 | ------------ | ------------------------------------------ | -------------------------------- |
