@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sergio-jimenez-cubas"><img src="https://img.shields.io/badge/LinkedIn-sergio--jimenez--cubas-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sergiojimenezcubas@gmail.com"><img src="https://img.shields.io/badge/Email-sergiojimenezcubas%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/serjim06"><img src="https://img.shields.io/badge/GitHub-serjim06-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="Sergio_Jimenez_Cubas_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-2E7D32?logo=readdotcv&logoColor=white" alt="Download CV (PDF)"></a>
+  <a href="Sergio_Jimenez_Cubas_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-2E7D32?logo=readdotcv&logoColor=white" alt="See CV (PDF)"></a>
 </p>
 
 ---
