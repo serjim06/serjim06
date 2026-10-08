@@ -28,7 +28,7 @@ I have hands-on experience building **end-to-end AI software**: custom **RAG pla
 
 **Intern — Esferize Comunicaciones SL** · *Feb 2026 – Aug 2026*
 
-- Built a **self-hosted RAG platform**  indexing ~40k documents from 4 internal sources (wijis, ticketing, GitLab, SharePoint), with incremental sync, exposed as a **hybrid-search MCP server** for AI-assisted, source-cited Q&A.
+- Built a **self-hosted RAG platform**  indexing ~40k documents from 4 internal sources (wikis, ticketing, GitLab, SharePoint), with incremental sync, hybrid retrieval and reranking, exposed as a MCP server for AI-assisted, source-cited Q&A.
 - Designed and implemented an **MCP server** enabling natural-language querying over a database.
 - Developed a **Microsoft Teams app** that provides real-time transcription and automatically generates meeting minutes.
 - Built a mobile app with **React Native + Expo** and a **Python / FastAPI** backend, integrating **Azure OpenAI** and **Azure Speech** for speech-to-text and automated technical report generation.
@@ -53,7 +53,7 @@ Desktop application to create, run and analyze **federated learning** experiment
 
 OCR system that turns photos of purchase receipts into **structured JSON** (vendor, date, item, total).
 
-- **CRNN** (CNN + 3-layer bidirectional LSTM) trained with **CTC Loss** on the **ICDAR2019-SROIE** dataset — no character-level alignment needed.
+- **CRNN** (CNN + 3-layer bidirectional LSTM) trained with **CTC Loss** on the **ICDAR2019-SROIE** dataset (4.2% CER / 85.6% word accuracy).
 - Automated data pipeline: dataset download, per-word cropping, label cleaning and vocabulary extraction in one step.
 - Configurable training CLI and inference on single images, lists or glob patterns.
 - **Next:** U-Net text detector (heatmap → bounding boxes), full detection + recognition pipeline and rule-based key information extraction.
